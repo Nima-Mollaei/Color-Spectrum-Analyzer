@@ -63,4 +63,13 @@ color-spectrum-analyzer/
 * Make sure your image file is named `your_image.jpg` and is in the same folder as `main.py`.
 * The output chart will be saved as `output.png`.
 
+````
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repo, open issues, or submit pull requests.
+
+
+
 

@@ -41,7 +41,7 @@ color-spectrum-analyzer/
 ## ▶️ How to Run
 
 1. **Clone the repository:**
-   ```bash
+```bash
    git clone https://github.com/your-username/color-spectrum-analyzer.git
    cd color-spectrum-analyzer
 ````

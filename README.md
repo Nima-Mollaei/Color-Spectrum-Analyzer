@@ -41,10 +41,10 @@ color-spectrum-analyzer/
 ## ▶️ How to Run
 
 1. **Clone the repository:**
-```bash
+   ```bash
    git clone https://github.com/your-username/color-spectrum-analyzer.git
    cd color-spectrum-analyzer
-````
+   ```
 
 2. **Install dependencies:**
 
@@ -63,7 +63,7 @@ color-spectrum-analyzer/
 * Make sure your image file is named `your_image.jpg` and is in the same folder as `main.py`.
 * The output chart will be saved as `output.png`.
 
-````
+
 ---
 
 ## 🤝 Contributing

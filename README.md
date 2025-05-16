@@ -64,8 +64,6 @@ color-spectrum-analyzer/
 * The output chart will be saved as `output.png`.
 
 
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repo, open issues, or submit pull requests.

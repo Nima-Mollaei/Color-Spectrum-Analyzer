@@ -15,7 +15,7 @@ This tool loads an image and calculates the distribution of colors (in RGB forma
 
 ## 🖼️ Example Output
 
-![Color Spectrum Output](output.png)
+![Color Spectrum Output](output.PNG)
 
 
 ## 🧪 Technologies Used

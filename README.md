@@ -66,7 +66,7 @@ color-spectrum-analyzer/
 
 ## 🤝 Contributing
 
-Contributions are welcome! Feel free to fork this repo, open issues, or submit pull requests.
+Contributions are WELCOME! Feel free to fork this repo, open issues, or submit pull requests.
 
 
 

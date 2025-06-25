@@ -3,7 +3,7 @@
 
 # 🎨 Color Spectrum Analyzer
 
-A simple Python project to analyze the color spectrum of an image using OPENCV and Matplotlib.
+A simple Python project to analyze the color spectrum of an image using OpenCV and Matplotlib.
 
 ## 📌 Project Description
 

@@ -25,7 +25,7 @@ This tool loads an image and calculates the distribution of colors (in RGB forma
 - Matplotlib  
 - NumPy  
 
-## 📂 File Structure:
+## 📂 File Structure
 
 ```
 

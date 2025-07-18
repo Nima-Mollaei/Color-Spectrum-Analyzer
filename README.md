@@ -31,7 +31,7 @@ This tool loads an image and calculates the distribution of colors (in RGB forma
 
 color-spectrum-analyzer/
 ├── main.py               # Main script
-├── your\_image.jpg       # Input image
+├── image.jpg       # Input image
 ├── output.png            # Generated color spectrum
 ├── requirements.txt      # Required packages
 └── README.md             # Project description

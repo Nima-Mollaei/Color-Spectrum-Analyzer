@@ -18,7 +18,7 @@ This tool loads an image and calculates the distribution of colors (in RGB forma
 ![Color Spectrum Output](output.PNG)
 
 
-## 🧪 Technologies Used:
+## 🧪 Technologies Used
 
 - Python 3.x  
 - OpenCV (`cv2`)  

@@ -5,7 +5,7 @@
 
 A simple Python project to analyze the color spectrum of an image using OpenCV and Matplotlib.
 
-## 📌 Project Description:
+## 📌 Project Description
 
 This tool loads an image and calculates the distribution of colors (in RGB format), then visualizes them as a color spectrum (pie chart). It's useful for:
 
